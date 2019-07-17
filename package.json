@@ -1,0 +1,22 @@
+{
+  "name": "prime-numbers",
+  "version": "1.0.0",
+  "description": "Calculate prime number list by given number.",
+  "main": "prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MkoMalkhasyan/Sieve-of-Eratosthenes.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MkoMalkhasyan/Sieve-of-Eratosthenes/issues"
+  },
+  "homepage": "https://github.com/MkoMalkhasyan/Sieve-of-Eratosthenes#readme",
+  "dependencies": {
+    "yargs": "^13.3.0"
+  }
+}
