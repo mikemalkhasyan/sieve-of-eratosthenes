@@ -7,7 +7,7 @@ module.exports = {
     },
 
     fillNumbers() {
-        this.numbers.length = this.givenNumber;
+        this.numbers.length = this.givenNumber + 1;
 
         this.numbers.fill(true);
     },
